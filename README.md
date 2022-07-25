@@ -7,4 +7,4 @@ I like to use this in combination with Ubuntu's [Unattended Upgrades](https://he
 
 ![message preview](/msg.png)
 
-Just be sure to make the script executable ie ```chmod +x ubuntu_update_checker.sh``` edit the **from_addr** and **to_addr** constants.
+Just be sure to make the script executable ie ```chmod +x update_checker.sh``` edit the **from_addr** and **to_addr** constants.
